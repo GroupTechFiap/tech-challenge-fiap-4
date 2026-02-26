@@ -115,9 +115,3 @@ O projeto evidencia a capacidade de transformar um modelo analítico em
 um produto funcional, pronto para uso em ambiente real.
 
 ------------------------------------------------------------------------
-
-## 👨‍💻 Autor
-
-Wellington Henrique\
-Tech Challenge -- FIAP\
-Data Science & Machine Learning
